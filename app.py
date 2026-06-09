@@ -38,7 +38,7 @@ if page == "Home":
     with col1:
         st.markdown("""
         ### Features
-        - 📚 **Comprehensive Coverage**: Year 1-4 medical curriculum
+        - 📚 **Comprehensive Coverage**: Year 1-6 medical curriculum
         - 🎯 **Personalized Learning**: Adapted to your level and weak areas
         - 💡 **Smart Explanations**: Context-aware answers
         - 📊 **Progress Tracking**: Monitor your improvement
