@@ -1,0 +1,86 @@
+# Medical Curriculum Training Data
+
+
+## Chemistry (Year 1)
+Subtopics: Basic Practical Chemistry, Principles of Chemistry
+
+## Biology (Year 1)
+Subtopics: Genetics for Medical Students, General Biology
+
+## Physics (Year 1)
+Subtopics: General Physics for Life Sciences, Practical Physics
+
+## General Studies (Year 1)
+Subtopics: Use of English, Library & Study Skills, Issues of Peace & Conflict
+
+## Gross Anatomy (Year 2)
+Subtopics: Skeletal system, Muscular system, Nervous system, Organ systems
+
+## Embryology and Genetics (Year 2)
+Subtopics: Embryonic development, Genetic principles, Congenital abnormalities
+
+## Histology and Histochemistry (Year 2)
+Subtopics: Tissue types, Cellular organization, Microscopy
+
+## Biochemistry (Year 2)
+Subtopics: Carbohydrate metabolism, Protein metabolism, Lipid metabolism, Enzyme kinetics
+
+## Physiology (Year 2)
+Subtopics: Blood physiology, Cardiovascular physiology, Respiratory physiology, GI physiology
+
+## Pharmacology (Year 3)
+Subtopics: General Pharmacology, Drug classification, Pharmacokinetics, Pharmacodynamics
+
+## Microbiology (Year 3)
+Subtopics: Bacteriology, Virology, Parasitology, Immunology
+
+## Pathology (Year 3)
+Subtopics: Cell injury, Inflammation, Neoplasia, Systemic pathology
+
+## Clinical Chemistry (Year 3)
+Subtopics: Lab diagnostics, Metabolic pathways, Clinical correlations
+
+## Internal Medicine (Year 3)
+Subtopics: Cardiology I, Respiratory Medicine I, Gastroenterology, Nephrology I, Neurology I, Hematology
+
+## Clinical Surgery (Year 3)
+Subtopics: General Surgery, GI Surgery, Congenital Abnormalities, Urology, Trauma Surgery
+
+## Advanced Pharmacology (Year 4)
+Subtopics: Antimicrobial drugs, CNS drugs, Chemotherapy, Special therapeutics
+
+## Advanced Microbiology (Year 4)
+Subtopics: Medical Protozoology, Medical Helminthology, Medical Entomology
+
+## Hematology (Year 4)
+Subtopics: Blood cell disorders, Hemostasis, Blood transfusion, Hematologic malignancies
+
+## Obstetrics and Gynaecology (Year 4)
+Subtopics: Reproductive physiology, Pregnancy, Labour, Gynecologic disorders
+
+## Pediatrics (Year 4)
+Subtopics: Growth and development, Pediatric diseases, Neonatal care, Pediatric nutrition
+
+## Forensic Medicine (Year 4)
+Subtopics: Medical jurisprudence, Toxicology, Death investigation
+
+## Obstetric Clinics (Year 5)
+Subtopics: Antenatal care, Labor management, Postpartum care, High-risk obstetrics
+
+## Pediatric Clinics (Year 5)
+Subtopics: Pediatric endocrinology, Pediatric neurology, Pediatric surgery, Infectious diseases
+
+## Community Health (Year 5)
+Subtopics: Public health, Epidemiology, Primary health care, Health promotion
+
+## Advanced Internal Medicine (Year 6)
+Subtopics: Cardiology II, Respiratory Medicine II, Gastroenterology II, Nephrology II, Neurology II
+
+## Advanced Surgery (Year 6)
+Subtopics: Cardiothoracic surgery, Neurosurgery, Oncologic surgery, Vascular surgery
+
+## Tropical Medicine (Year 6)
+Subtopics: Endemic diseases, Parasitic infections, Vector-borne diseases, Infectious disease management
+
+## Medical Ethics (Year 6)
+Subtopics: Professional ethics, Jurisprudence, Medical-legal issues, Patient rights

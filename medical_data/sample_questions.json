@@ -1,0 +1,114 @@
+[
+  {
+    "year": 1,
+    "course": "CHM 101",
+    "question": "What are the basic principles of chemistry relevant to medical science?",
+    "topic": "Chemistry",
+    "answer": "Chemistry for medical students focuses on organic and biochemistry principles including molecular bonds, pH, buffers..."
+  },
+  {
+    "year": 1,
+    "course": "BIO 101",
+    "question": "Explain the concept of genetics for medical students.",
+    "topic": "Biology",
+    "answer": "Genetics covers Mendelian inheritance, DNA structure, gene expression, and clinical significance of genetic mutations..."
+  },
+  {
+    "year": 2,
+    "course": "ANA 201",
+    "question": "Name the major bones of the upper limb and their anatomical landmarks.",
+    "topic": "Gross Anatomy",
+    "answer": "The upper limb skeleton includes humerus, radius, ulna, and carpal bones with important bony landmarks..."
+  },
+  {
+    "year": 2,
+    "course": "BIC 201",
+    "question": "Describe the citric acid cycle and its clinical significance.",
+    "topic": "Biochemistry",
+    "answer": "The citric acid cycle generates energy and intermediates for biosynthesis. Defects lead to metabolic disorders..."
+  },
+  {
+    "year": 2,
+    "course": "PYS 201",
+    "question": "Explain the physiology of blood pressure regulation.",
+    "topic": "Physiology",
+    "answer": "Blood pressure is maintained by cardiac output, peripheral resistance, and neurohumoral regulation..."
+  },
+  {
+    "year": 3,
+    "course": "PHA 301",
+    "question": "What is pharmacokinetics and how does it affect drug dosing?",
+    "topic": "Pharmacology",
+    "answer": "Pharmacokinetics involves absorption, distribution, metabolism, and excretion. These guide appropriate dosing..."
+  },
+  {
+    "year": 3,
+    "course": "PAT 301",
+    "question": "Explain the process of inflammation and its outcomes.",
+    "topic": "Pathology",
+    "answer": "Inflammation involves vasodilation, cellular infiltration, and can resolve, suppurate, or become chronic..."
+  },
+  {
+    "year": 3,
+    "course": "MED 301",
+    "question": "What are the cardinal signs and symptoms of heart failure?",
+    "topic": "Internal Medicine",
+    "answer": "Heart failure presents with dyspnea, fatigue, edema, and orthopnea due to reduced cardiac output..."
+  },
+  {
+    "year": 3,
+    "course": "SUG 301",
+    "question": "Describe the principles of surgical asepsis and infection control.",
+    "topic": "Clinical Surgery",
+    "answer": "Surgical asepsis involves sterilization, maintaining sterile fields, and proper technique to prevent SSI..."
+  },
+  {
+    "year": 4,
+    "course": "OBG 401",
+    "question": "What are the stages of labor and normal delivery management?",
+    "topic": "Obstetrics and Gynaecology",
+    "answer": "Labor has three stages: cervical dilation, fetal descent, and placental delivery requiring careful monitoring..."
+  },
+  {
+    "year": 4,
+    "course": "PAE 410",
+    "question": "Describe normal growth and development milestones in children.",
+    "topic": "Pediatrics",
+    "answer": "Growth and development follow predictable patterns. Deviations may indicate nutritional or genetic problems..."
+  },
+  {
+    "year": 4,
+    "course": "HEM 401",
+    "question": "What are the classification and clinical features of anemia?",
+    "topic": "Hematology",
+    "answer": "Anemia is classified by RBC size and hemoglobin content. Symptoms depend on severity and acuity..."
+  },
+  {
+    "year": 5,
+    "course": "OBG 503",
+    "question": "Discuss the management of a complicated pregnancy.",
+    "topic": "Obstetric Clinics",
+    "answer": "Complications require multidisciplinary management with consideration of maternal and fetal factors..."
+  },
+  {
+    "year": 5,
+    "course": "COM 502",
+    "question": "Explain the role of epidemiology in disease control.",
+    "topic": "Community Health",
+    "answer": "Epidemiology identifies disease patterns, risk factors, and guides public health interventions..."
+  },
+  {
+    "year": 6,
+    "course": "MED 601",
+    "question": "Discuss the management of acute coronary syndrome.",
+    "topic": "Advanced Internal Medicine",
+    "answer": "ACS management involves rapid diagnosis, antiplatelet/anticoagulation therapy, and revascularization..."
+  },
+  {
+    "year": 6,
+    "course": "MED 610",
+    "question": "Explain informed consent and its legal implications.",
+    "topic": "Medical Ethics",
+    "answer": "Informed consent requires disclosure of risks, benefits, and alternatives with patient autonomy assessment..."
+  }
+]

@@ -1,0 +1,232 @@
+{
+  "year_1": [
+    {
+      "topic": "Chemistry",
+      "year": 1,
+      "code": "CHM 101",
+      "subtopics": [
+        "Basic Practical Chemistry",
+        "Principles of Chemistry"
+      ]
+    },
+    {
+      "topic": "Biology",
+      "year": 1,
+      "code": "BIO 101",
+      "subtopics": [
+        "Genetics for Medical Students",
+        "General Biology"
+      ]
+    },
+    {
+      "topic": "Physics",
+      "year": 1,
+      "code": "PHY 101",
+      "subtopics": [
+        "General Physics for Life Sciences",
+        "Practical Physics"
+      ]
+    },
+    {
+      "topic": "General Studies",
+      "year": 1,
+      "code": "GS 111",
+      "subtopics": [
+        "Use of English",
+        "Library & Study Skills",
+        "Issues of Peace & Conflict"
+      ]
+    }
+  ],
+  "year_2": [
+    {
+      "topic": "Gross Anatomy",
+      "year": 2,
+      "code": "ANA 201",
+      "subtopics": [
+        "Skeletal system",
+        "Muscular system",
+        "Nervous system",
+        "Organ systems"
+      ]
+    },
+    {
+      "topic": "Embryology and Genetics",
+      "year": 2,
+      "code": "ANA 203",
+      "subtopics": [
+        "Embryonic development",
+        "Genetic principles",
+        "Congenital abnormalities"
+      ]
+    },
+    {
+      "topic": "Histology and Histochemistry",
+      "year": 2,
+      "code": "ANA 205",
+      "subtopics": [
+        "Tissue types",
+        "Cellular organization",
+        "Microscopy"
+      ]
+    },
+    {
+      "topic": "Biochemistry",
+      "year": 2,
+      "code": "BIC 201",
+      "subtopics": [
+        "Carbohydrate metabolism",
+        "Protein metabolism",
+        "Lipid metabolism",
+        "Enzyme kinetics"
+      ]
+    },
+    {
+      "topic": "Physiology",
+      "year": 2,
+      "code": "PYS 201",
+      "subtopics": [
+        "Blood physiology",
+        "Cardiovascular physiology",
+        "Respiratory physiology",
+        "GI physiology"
+      ]
+    }
+  ],
+  "year_3": [
+    {
+      "topic": "Pharmacology",
+      "year": 3,
+      "code": "PHA 301",
+      "subtopics": [
+        "General Pharmacology",
+        "Drug classification",
+        "Pharmacokinetics",
+        "Pharmacodynamics"
+      ]
+    },
+    {
+      "topic": "Microbiology",
+      "year": 3,
+      "code": "MIC 302",
+      "subtopics": [
+        "Bacteriology",
+        "Virology",
+        "Parasitology",
+        "Immunology"
+      ]
+    },
+    {
+      "topic": "Pathology",
+      "year": 3,
+      "code": "PAT 301",
+      "subtopics": [
+        "Cell injury",
+        "Inflammation",
+        "Neoplasia",
+        "Systemic pathology"
+      ]
+    },
+    {
+      "topic": "Clinical Chemistry",
+      "year": 3,
+      "code": "CPT 301",
+      "subtopics": [
+        "Lab diagnostics",
+        "Metabolic pathways",
+        "Clinical correlations"
+      ]
+    },
+    {
+      "topic": "Internal Medicine",
+      "year": 3,
+      "code": "MED 301",
+      "subtopics": [
+        "Cardiology I",
+        "Respiratory Medicine I",
+        "Gastroenterology",
+        "Nephrology I",
+        "Neurology I",
+        "Hematology"
+      ]
+    },
+    {
+      "topic": "Clinical Surgery",
+      "year": 3,
+      "code": "SUG 301",
+      "subtopics": [
+        "General Surgery",
+        "GI Surgery",
+        "Congenital Abnormalities",
+        "Urology",
+        "Trauma Surgery"
+      ]
+    }
+  ],
+  "year_4": [
+    {
+      "topic": "Advanced Pharmacology",
+      "year": 4,
+      "code": "PHA 401",
+      "subtopics": [
+        "Antimicrobial drugs",
+        "CNS drugs",
+        "Chemotherapy",
+        "Special therapeutics"
+      ]
+    },
+    {
+      "topic": "Advanced Microbiology",
+      "year": 4,
+      "code": "MIC 401",
+      "subtopics": [
+        "Medical Protozoology",
+        "Medical Helminthology",
+        "Medical Entomology"
+      ]
+    },
+    {
+      "topic": "Hematology",
+      "year": 4,
+      "code": "HEM 401",
+      "subtopics": [
+        "Blood cell disorders",
+        "Hemostasis",
+        "Blood transfusion",
+        "Hematologic malignancies"
+      ]
+    },
+    {
+      "topic": "Obstetrics and Gynaecology",
+      "year": 4,
+      "code": "OBG 401",
+      "subtopics": [
+        "Reproductive physiology",
+        "Pregnancy",
+        "Labour",
+        "Gynecologic disorders"
+      ]
+    },
+    {
+      "topic": "Pediatrics",
+      "year": 4,
+      "code": "PAE 410",
+      "subtopics": [
+        "Growth and development",
+        "Pediatric diseases",
+        "Neonatal care",
+        "Pediatric nutrition"
+      ]
+    },
+    {
+      "topic": "Forensic Medicine",
+      "year": 4,
+      "code": "PAT 403",
+      "subtopics": [
+        "Medical jurisprudence",
+        "Toxicology",
+        "Death investigation"
+      ]
+    }
+  ]
+}

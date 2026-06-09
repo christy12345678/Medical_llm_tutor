@@ -1,0 +1,47 @@
+{
+  "Gross Anatomy": [
+    "Understand human skeletal anatomy with landmarks",
+    "Identify major organs and systems",
+    "Apply anatomical knowledge to clinical examination"
+  ],
+  "Biochemistry": [
+    "Understand metabolic pathways and energy production",
+    "Know enzyme kinetics and regulation",
+    "Apply biochemistry to clinical disorders"
+  ],
+  "Pharmacology": [
+    "Understand drug classifications and mechanisms",
+    "Know pharmacokinetics and pharmacodynamics",
+    "Manage drug interactions and side effects safely"
+  ],
+  "Pathology": [
+    "Understand cell injury and disease mechanisms",
+    "Diagnose pathological conditions",
+    "Apply pathological knowledge to clinical practice"
+  ],
+  "Internal Medicine": [
+    "Diagnose and manage internal diseases",
+    "Know evidence-based treatment guidelines",
+    "Manage patient care with clinical judgment"
+  ],
+  "Clinical Surgery": [
+    "Understand surgical principles and asepsis",
+    "Manage acute surgical emergencies",
+    "Apply surgical techniques appropriately"
+  ],
+  "Obstetrics and Gynaecology": [
+    "Understand normal and abnormal pregnancy",
+    "Manage labor and delivery",
+    "Manage gynecologic disorders"
+  ],
+  "Pediatrics": [
+    "Understand growth and development",
+    "Diagnose and manage pediatric diseases",
+    "Provide preventive pediatric care"
+  ],
+  "Medical Ethics": [
+    "Understand professional and ethical responsibilities",
+    "Know medical-legal principles",
+    "Apply ethics to clinical decision-making"
+  ]
+}
